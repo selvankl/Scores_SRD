@@ -1,0 +1,1169 @@
+Vortex 1.12.1 loaded ( Wednesday 21. May 2025, at 14:12:31 )
+[Date(2024, 8, 1, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 1132.3605 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[-0.012743111111016737, 853.2857975751539] [0.011699318885803223, 100.01169932037593]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080106_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.5297 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080107_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6172 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080108_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.4127 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080109_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3926 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080110_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8159 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080111_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.6080 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080112_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5152 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080113_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.6424 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080114_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.4407 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080115_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.3450 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080116_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8231 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080117_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.0059 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080118_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 8.9776 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080119_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.4069 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080120_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 8.9295 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080121_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.1836 seconds
+[Date(2024, 8, 2, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 525.5507 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[0.0, 868.7965843516091] [0.011699318885803223, 100.01169932037593]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080206_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.5225 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080207_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.1568 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080208_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7752 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080209_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.6091 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080210_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.6877 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080211_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.1321 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080212_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7058 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080213_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.6863 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080214_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.1762 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080215_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0347 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080216_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.0893 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080217_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.9833 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080218_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6619 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080219_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.2298 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080220_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.2990 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080221_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.0066 seconds
+[Date(2024, 8, 3, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 475.5347 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[0.0, 863.7602046800699] [0.011699318885803223, 100.18926368502434]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080306_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7935 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080307_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9678 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080308_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3640 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080309_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2859 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080310_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.1751 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080311_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2347 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080312_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.6703 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080313_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0593 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080314_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8229 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080315_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7943 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080316_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.5332 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080317_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.1636 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080318_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.3692 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080319_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.6483 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080320_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 8.6621 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080321_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.0768 seconds
+[Date(2024, 8, 4, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 502.9582 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[0.0, 873.1541484040565] [0.011699318420141935, 100.1833445392549]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080406_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.1152 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080407_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9302 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080408_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.6213 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080409_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0024 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080410_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4029 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080411_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8013 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080412_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3595 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080413_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9877 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080414_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0657 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080415_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0765 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080416_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.1972 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080417_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.4630 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080418_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.5715 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080419_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0047 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080420_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.6180 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080421_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 9.6213 seconds
+[Date(2024, 8, 5, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 483.1659 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[0.0, 876.6181800340163] [0.01169931790334644, 100.0116993188858]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080506_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.7747 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080507_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5402 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080508_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0128 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080509_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7162 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240805T101500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024080510_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9066 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080511_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5378 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080512_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.3761 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080513_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5932 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080514_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.2964 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080515_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9866 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080516_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.0823 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080517_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4426 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080518_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.6423 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080519_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5632 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080520_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6739 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080521_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 8.9644 seconds
+[Date(2024, 8, 6, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 459.0352 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[-0.004421154799767666, 857.991657931858] [0.011699318885803223, 100.17822799272835]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080606_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0384 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080607_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8971 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080608_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3468 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080609_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0777 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080610_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5630 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080611_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9865 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080612_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4392 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080613_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3953 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080614_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9054 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080615_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7334 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080616_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3436 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080617_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5073 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080618_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7346 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080619_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5562 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080620_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.1959 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080621_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.5637 seconds
+[Date(2024, 8, 7, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 517.3864 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[0.0, 878.403249306149] [0.011699318885803223, 100.19505266100168]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080706_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8302 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080707_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.6452 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080708_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7699 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080709_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5119 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080710_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7673 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080711_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6965 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080712_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9320 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080713_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8535 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080714_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.3145 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080715_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.9436 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080716_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 25.5911 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080717_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0541 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080718_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6397 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080719_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0487 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080720_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9896 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080721_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9263 seconds
+[Date(2024, 8, 8, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 580.1019 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[0.0, 851.574449327257] [0.011699318885803223, 100.01169932037593]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080806_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6471 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080807_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1288 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080808_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2460 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080809_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0241 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080810_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.7234 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080811_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2532 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080812_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9748 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080813_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0817 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080814_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0362 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080815_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2874 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080816_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3641 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080817_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.7785 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080818_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3982 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080819_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2155 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080820_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.3985 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080821_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6433 seconds
+[Date(2024, 8, 9, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 545.4875 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[-0.050833333333333335, 849.2784958333331] [0.01169931790334644, 100.19243409633637]
+Writing the file of H1SN/0300P/RESULT/EPS/2024080906_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4546 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080907_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5768 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080908_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1116 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080909_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5384 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080910_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5025 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080911_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.4866 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080912_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.6489 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080913_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8077 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080914_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8281 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080915_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5207 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080916_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3115 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080917_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.3421 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080918_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8003 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080919_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.4232 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080920_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.7507 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024080921_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3710 seconds
+[Date(2024, 8, 10, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 534.1134 seconds
+[4.787521290863794e-11, 7.008904090791135e-11]
+[-0.04697476975309352, 842.6435731336805] [0.011699318565661088, 100.01169931963086]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081006_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.7100 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081007_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5941 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081008_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1520 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081009_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2836 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081010_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0089 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081011_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.1065 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081012_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0355 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081013_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9543 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081014_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8072 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081015_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9447 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081016_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4874 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081017_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.3794 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081018_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9798 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081019_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.1791 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081020_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9244 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081021_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5145 seconds
+[Date(2024, 8, 11, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 486.1135 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.0288258873578161, 842.6148109191666] [0.011699318329149902, 100.0116993188858]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081106_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2527 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081107_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8311 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081108_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9891 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081109_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2888 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081110_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.3756 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081111_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0393 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081112_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9905 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081113_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9713 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081114_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2947 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081115_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3266 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081116_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4256 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081117_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1078 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081118_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.5281 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081119_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8861 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081120_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2231 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081121_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.1759 seconds
+[Date(2024, 8, 12, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 517.0586 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.06167905692425039, 839.8617600000003] [0.011699318885803223, 100.01169931963086]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081206_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0044 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081207_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5513 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081208_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7293 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081209_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4893 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081210_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0832 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081211_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5129 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081212_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6898 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081213_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0113 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081214_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3462 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081215_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6823 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081216_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2260 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081217_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7931 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081218_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.2831 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081219_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2600 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081220_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7391 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081221_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9600 seconds
+[Date(2024, 8, 13, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 478.1488 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.07705441223353976, 817.7598766047192] [0.011699318885803223, 100.19314005039632]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081306_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2964 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081307_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4959 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081308_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3478 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081309_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8063 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081310_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4749 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081311_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9136 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081312_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2840 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081313_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3432 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081314_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7050 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081315_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9630 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081316_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2227 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081317_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1185 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081318_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5280 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081319_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.1025 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081320_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.9675 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081321_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.8938 seconds
+[Date(2024, 8, 14, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 488.2938 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.048014852735731334, 818.6323421613101] [0.011699318885803223, 100.16780563641345]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081406_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2234 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081407_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9034 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081408_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0159 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081409_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5377 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081410_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8195 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081411_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5293 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081412_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2516 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081413_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3327 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081414_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4133 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081415_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5970 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081416_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8371 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081417_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0287 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081418_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3889 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081419_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.1471 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081420_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.3687 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081421_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.3228 seconds
+[Date(2024, 8, 15, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 550.5692 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.013775295681423612, 858.5049197025271] [0.01169931790334644, 100.0116993188858]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081506_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5268 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081507_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6353 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081508_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1382 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081509_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0712 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081510_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.8566 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081511_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.9496 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081512_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.3154 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081513_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6497 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081514_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8115 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081515_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5562 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081516_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3687 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081517_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.6848 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081518_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8025 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081519_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2179 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081520_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0505 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081521_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.4271 seconds
+[Date(2024, 8, 16, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 546.7265 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.0895579906532334, 833.4817083424346] [0.011699318885803223, 100.16159722372325]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081606_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2647 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081607_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2090 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081608_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.7072 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081609_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.8367 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081610_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8585 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081611_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8641 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081612_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8632 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081613_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.7046 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081614_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1278 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081615_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.2833 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081616_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5224 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081617_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9290 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081618_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6806 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081619_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.1841 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081620_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5194 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081621_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7282 seconds
+[Date(2024, 8, 17, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 560.6939 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.08001500696590584, 814.8534268229165] [0.011699318885803223, 100.19346531480551]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081706_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6813 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081707_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8599 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081708_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 18.4687 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081709_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1212 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081710_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8916 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081711_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1608 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081712_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2621 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T130000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T134500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024081713_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4361 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T140000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T141500Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T143000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T144500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024081714_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.5652 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T150000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T151500Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T153000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T154500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024081715_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3714 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T160000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T161500Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T163000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T164500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024081716_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4424 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T170000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T171500Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T173000Z.nc
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T174500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024081717_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 18.3489 seconds
+Fichier non trouvé : S_NWC_CMA_MSG4_globeM-VISIR_20240817T181500Z.nc
+Writing the file of H1SN/0300P/RESULT/EPS/2024081718_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0043 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081719_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6761 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081720_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4810 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081721_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5654 seconds
+[Date(2024, 8, 18, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 476.6156 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.047616231944929394, 823.3522047223436] [0.011699318885803223, 100.18354849889874]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081806_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2320 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081807_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4300 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081808_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4747 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081809_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8959 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081810_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8267 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081811_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9679 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081812_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5813 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081813_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0781 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081814_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 17.4295 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081815_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2157 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081816_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8698 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081817_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0641 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081818_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.9041 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081819_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.3531 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081820_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5072 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081821_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9901 seconds
+[Date(2024, 8, 19, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 468.5121 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.033203125, 833.9692051802358] [0.011699318000924636, 100.02880589663982]
+Writing the file of H1SN/0300P/RESULT/EPS/2024081906_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9356 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081907_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4237 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081908_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.1847 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081909_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3439 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081910_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6237 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081911_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4936 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081912_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5685 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081913_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3497 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081914_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5476 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081915_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6557 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081916_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5650 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081917_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6474 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081918_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4824 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081919_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.8252 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081920_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8320 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024081921_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8774 seconds
+[Date(2024, 8, 20, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 455.8856 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[-0.06728702121310765, 826.243593343099] [0.011699318885803223, 100.01169931963086]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082006_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6547 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082007_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4832 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082008_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8822 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082009_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.0292 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082010_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.4510 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082011_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7515 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082012_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0068 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082013_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8602 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082014_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7251 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082015_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0816 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082016_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1892 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082017_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8033 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082018_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8392 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082019_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6977 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082020_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.0934 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082021_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.1352 seconds
+[Date(2024, 8, 21, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 442.1619 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 832.6020942680166] [0.011699318329149902, 100.14482910156251]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082106_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9306 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082107_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8381 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082108_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0310 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082109_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7424 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082110_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2300 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082111_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3911 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082112_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8760 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082113_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.6208 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082114_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7809 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082115_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8390 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082116_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2851 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082117_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3566 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082118_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3997 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082119_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.8530 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082120_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3080 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082121_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1527 seconds
+[Date(2024, 8, 22, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 460.4615 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 826.7570653618707] [0.011699318491764643, 100.16825326601975]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082206_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.8049 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082207_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.2938 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082208_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.3994 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082209_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3557 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082210_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7519 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082211_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.5141 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082212_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7140 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082213_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8930 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082214_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6369 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082215_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.8465 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082216_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4423 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082217_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9271 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082218_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7182 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082219_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4306 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082220_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.1043 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082221_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.8971 seconds
+[Date(2024, 8, 23, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 450.1380 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 800.1988842604785] [0.011699318885803223, 100.18824310973287]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082306_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 10.7683 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082307_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0902 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082308_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.9572 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082309_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6814 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082310_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3265 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082311_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2717 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082312_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2547 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082313_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 13.7060 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082314_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0302 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082315_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5094 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082316_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8465 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082317_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6332 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082318_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5114 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082319_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.3460 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082320_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3332 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082321_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4905 seconds
+[Date(2024, 8, 24, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 447.3896 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 795.7142719937515] [0.011699318885803223, 100.01169931963086]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082406_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.6857 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082407_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6269 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082408_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7212 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082409_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1637 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082410_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7520 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082411_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2457 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082412_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.1587 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082413_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4530 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082414_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7903 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082415_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6067 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082416_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6334 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082417_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7569 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082418_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0459 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082419_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4458 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082420_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3383 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082421_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.0503 seconds
+[Date(2024, 8, 25, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 467.2396 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 826.2599733140734] [0.011699318329149902, 100.10682582855225]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082506_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4857 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082507_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3690 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082508_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6881 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082509_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.2981 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082510_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0743 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082511_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4067 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082512_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.4397 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082513_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5791 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082514_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6007 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082515_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0510 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082516_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6780 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082517_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.3923 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082518_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0252 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082519_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4958 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082520_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7628 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082521_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9089 seconds
+[Date(2024, 8, 26, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 451.7871 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 812.6208310325941] [0.011699318000924636, 100.15100306191016]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082606_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.4004 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082607_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.9344 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082608_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0426 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082609_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.9856 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082610_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7733 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082611_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4038 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082612_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.9274 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082613_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1717 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082614_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8052 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082615_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8100 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082616_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6066 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082617_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7181 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082618_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8917 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082619_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.5511 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082620_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6402 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082621_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.3104 seconds
+[Date(2024, 8, 27, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 492.8806 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 809.9333901100606] [0.011699318000924636, 100.01169931963086]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082706_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.0627 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082707_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8020 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082708_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6830 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082709_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6004 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082710_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.9851 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082711_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.2703 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082712_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.2528 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082713_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1061 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082714_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.6934 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082715_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0248 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082716_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7221 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082717_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1302 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082718_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0055 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082719_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5452 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082720_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2992 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082721_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.8166 seconds
+[Date(2024, 8, 28, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 467.4846 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 814.5927192041805] [0.011699318065439002, 100.0116993188858]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082806_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.2146 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082807_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7799 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082808_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5322 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082809_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.5656 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082810_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0117 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082811_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.7857 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082812_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0787 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082813_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.7934 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082814_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1166 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082815_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3219 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082816_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1068 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082817_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1987 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082818_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3738 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082819_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9806 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082820_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.1355 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082821_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9707 seconds
+[Date(2024, 8, 29, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 460.9164 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 772.6957698868852] [0.011699318885803223, 100.18894355744123]
+Writing the file of H1SN/0300P/RESULT/EPS/2024082906_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.3954 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082907_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8290 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082908_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.9583 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082909_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0146 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082910_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0216 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082911_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.8306 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082912_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.2683 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082913_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4851 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082914_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.5333 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082915_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.8481 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082916_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.2918 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082917_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1514 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082918_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.0165 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082919_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9328 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082920_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5538 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024082921_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2647 seconds
+[Date(2024, 8, 30, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 471.8435 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 748.003549216346] [0.011699318885803223, 100.18650069832802]
+Writing the file of H1SN/0300P/RESULT/EPS/2024083006_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.6384 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083007_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1815 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083008_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3577 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083009_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4712 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083010_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.6284 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083011_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.1548 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083012_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.5300 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083013_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.6515 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083014_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3782 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083015_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4112 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083016_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.8931 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083017_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1869 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083018_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.1992 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083019_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2078 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083020_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.9660 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083021_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.2026 seconds
+[Date(2024, 8, 31, 3, 0)] [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23] 24
+575
+Reading PEAROME data is done in 475.9446 seconds
+[4.787521290863794e-11, 7.008869396321615e-11]
+[0.0, 752.2264060146642] [0.011699318885803223, 100.18507455242798]
+Writing the file of H1SN/0300P/RESULT/EPS/2024083106_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 11.7672 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083107_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4302 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083108_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4997 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083109_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4165 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083110_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.4922 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083111_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3826 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083112_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.0526 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083113_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.0343 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083114_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.5245 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083115_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3439 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083116_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.3681 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083117_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 16.2939 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083118_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 15.3141 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083119_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.5788 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083120_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 14.0342 seconds
+Writing the file of H1SN/0300P/RESULT/EPS/2024083121_mem24_memU25_K4_0.02.nc
+Scores computation for 1 forcast term is Done in 12.9452 seconds
+Vortex 1.12.1 completed ( Wednesday 21. May 2025, at 20:35:06 )
